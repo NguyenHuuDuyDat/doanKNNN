@@ -1,11 +1,16 @@
 #include <iostream>
 
 using namespace std;
+struct toado()
+{
+    int x;
+    int y;
 
+};
 int main()
 {
     cout << "Hello world!" << endl;
 
-    cout<<"chao anh em"<<endl;
+    
         return 0;
 }
