@@ -7,6 +7,10 @@ struct toado()
     int y;
 
 };
+struct Node()
+{
+    Node*p;
+};
 int main()
 {
     cout << "Hello world!" << endl;
