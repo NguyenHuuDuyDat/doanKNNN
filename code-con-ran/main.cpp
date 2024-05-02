@@ -22,3 +22,15 @@ int main()
     
         return 0;
 }
+struct namie
+{
+    int x;
+    int y;
+
+};
+struct Node()
+{
+    Node * p;
+;}
+
+
